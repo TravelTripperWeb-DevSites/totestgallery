@@ -119,6 +119,23 @@
       "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_3/media/2017-10-09-061246/small_50cc5198b2a9f11d13d464e274774d0a.jpg",
       "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_3/media/2017-10-09-061246/xsmall_50cc5198b2a9f11d13d464e274774d0a.jpg",
       "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_3/media/2017-10-09-061246/thumb_50cc5198b2a9f11d13d464e274774d0a.jpg"
+    },
+    {
+      "name": "amsterdam_library_shelves",
+      "file_name": "amsterdam_library_shelves",
+      "file_type": "image/jpeg",
+      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_3/media/2017-10-09-061707/amsterdam-library-shelves.jpg",
+      "date_added": "amsterdam_library_shelves",
+      "tags": "",
+      "file_size": "62530",
+      "width": "497",
+      "height": "373",
+      "description": "",
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_3/media/2017-10-09-061707/large_amsterdam_library_shelves.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_3/media/2017-10-09-061707/medium_amsterdam_library_shelves.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_3/media/2017-10-09-061707/small_amsterdam_library_shelves.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_3/media/2017-10-09-061707/xsmall_amsterdam_library_shelves.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_3/media/2017-10-09-061707/thumb_amsterdam_library_shelves.jpg"
     }
   ],
   "gallery_description": "",
