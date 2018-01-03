@@ -22,9 +22,21 @@ module Jekyll
       site.data['regions'] << File.join(page_folder, @filename)
 
       region_type = @options['type'] || 'html'
-      region_classes = get_region_classes(context)    
-      
-      wrap('div', 'class' => 'tt-region', 'data-region' => File.join(site.active_lang, page_folder, @filename), 'data-region-type' => region_type, 'data-region-classes'=>region_classes) do
+      region_classes = get_region_classes(context)
+
+      tt_region_options = {
+                            'class' => 'tt-region',
+                            'data-region' => File.join(site.active_lang, page_folder, @filename),
+                            'data-region-type' => region_type,
+                            'data-region-classes'=>region_classes
+                          }
+
+      if region_type == 'image'
+         tt_region_options['data-suggested-height'] = @options['suggested_height']
+         tt_region_options['data-suggested-width'] = @options['suggested_width']
+      end
+
+      wrap('div', tt_region_options) do
         if region_items.size == 0
           #empty_region_content(include_data_path, context)
           empty_region_content(context)
@@ -35,6 +47,7 @@ module Jekyll
           end.join
         end
       end
+    
     rescue Exception => error
       print error.message, "\n"
       print error.backtrace.join("\n")

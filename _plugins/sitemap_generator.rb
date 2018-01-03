@@ -27,7 +27,18 @@ class SitemapGenerator
     page_orders = {}
     if File.exists?(page_order_file_name)
       File.open(page_order_file_name, "r") do |f|
-        page_orders = YAML.load(f.read)
+        page_list = YAML.load(f.read)
+        if page_list.is_a?(Array)
+          page_list.each_with_index do |page, i|
+            page_orders[page] = i
+          end
+        elsif (page_list["paths"] || page_list[:paths]).is_a?(Array)
+          page_list["paths"].each_with_index do |page, i|
+            page_orders[page] = i
+          end
+        else
+          page_orders = page_list
+        end
       end
     end
     default_order = 0
@@ -49,7 +60,8 @@ class SitemapGenerator
           page_path = path_to_check + ['__PAGES__']
           sitemap[*page_path] ||= []
           pageorder_lookup = (path[1..-1].join('/'))
-          sitemap[*page_path][0] = {order: page_orders["/#{pageorder_lookup}/"] || default_order }
+          order = page_orders["/#{pageorder_lookup}/"] || default_order 
+          sitemap[*page_path][0] = {order: order}
         end      
       end
 
@@ -59,7 +71,8 @@ class SitemapGenerator
       
 
       sitemap[*path] ||= []
-      sitemap[*path][0] = { label: page.data['label'] || page.data['title'] || label, published: page.data['published']!=false, locales: localized_urls(site, page), data_source: (page.is_a?(Jekyll::DataPage) && page.data_source) || nil, source_path: source_path, order: page_orders[page.url] || default_order } unless page.data['editable'] === false
+      order = page_orders[page.url] || default_order 
+      sitemap[*path][0] = { label: page.data['label'] || page.data['title'] || label, published: page.data['published']!=false, locales: localized_urls(site, page), data_source: (page.is_a?(Jekyll::DataPage) && page.data_source) || nil, source_path: source_path, order: order } unless page.data['editable'] === false
     end
 
     sitemap['__REGIONS__'] = site.data['regions']
