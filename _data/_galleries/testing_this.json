@@ -2,20 +2,6 @@
   "name": "Testing this",
   "photos": [
     {
-      "name": "Practical Object-Oriented Design in Ruby",
-      "file_name": "Practical Object-Oriented Design in Ruby.pdf",
-      "file_type": "application/pdf",
-      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_3/media/2017-10-09-065318/Practical-Object-Oriented-Design-in-Ruby.pdf",
-      "date_added": "2017-10-09 06:53:32",
-      "tags": "",
-      "file_size": 2202552,
-      "width": null,
-      "height": null,
-      "description": "",
-      "git_file_name": "_assets/image_data/site-assets_2_1_3_media_2017-10-09-065318_Practical-Object-Oriented-Design-in-Ruby.pdf.json",
-      "path": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_3/media/2017-10-09-065318/Practical-Object-Oriented-Design-in-Ruby.pdf"
-    },
-    {
       "name": "amsterdam_library_shelves",
       "file_name": "amsterdam_library_shelves.jpg",
       "file_type": "image/jpeg",
