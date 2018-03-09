@@ -4,5 +4,9 @@
   },
   "desc": {
     "type": "richtext"
+},
+  
+  "location": {
+    "type": "location"
 }
 }
