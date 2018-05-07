@@ -12,6 +12,7 @@
 },
   
   "start_date": {
-    "type": "date"
+    "type": "date",
+    "localized": true
 }
 }
