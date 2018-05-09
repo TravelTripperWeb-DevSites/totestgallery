@@ -6,12 +6,8 @@
     "type": "richtext"
 },
   
-  "location": {
-    "type": "location",
-    "multiple": true
-},
-  
-  "start_date": {
-    "type": "date"
+  "Color": {
+    "type": "color",
+    "required": true
 }
 }
