@@ -1,5 +1,7 @@
 {
   "location": "hbbbbbbbbbbbb",
   "name": "nnn",
-  "Color": "#fff"
+  "Color": {
+    "isTrusted": true
+  }
 }
