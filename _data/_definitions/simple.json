@@ -9,5 +9,11 @@
   "Color": {
     "type": "color",
     "required": true
+},
+  
+  "Location": {
+    "type": "location",
+    "required": true,
+    "multiple": true
 }
 }
