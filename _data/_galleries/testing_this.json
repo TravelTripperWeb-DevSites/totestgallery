@@ -19,6 +19,25 @@
       "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_3/media/2017-10-09-061707/thumb_amsterdam_library_shelves.jpg",
       "git_file_name": "_assets/image_data/site-assets_2_1_3_media_2017-10-09-061707_amsterdam-library-shelves.jpg.json",
       "path": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_3/media/2017-10-09-061707/amsterdam-library-shelves.jpg"
+    },
+    {
+      "name": "50cc5198b2a9f11d13d464e274774d0a",
+      "file_name": "50cc5198b2a9f11d13d464e274774d0a.jpg",
+      "file_type": "image/jpeg",
+      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_3/media/2017-10-09-061246/50cc5198b2a9f11d13d464e274774d0a.jpg",
+      "date_added": "2017-10-09 06:13:16",
+      "tags": "",
+      "file_size": 41620,
+      "width": 564,
+      "height": 423,
+      "description": "",
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_3/media/2017-10-09-061246/large_50cc5198b2a9f11d13d464e274774d0a.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_3/media/2017-10-09-061246/medium_50cc5198b2a9f11d13d464e274774d0a.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_3/media/2017-10-09-061246/small_50cc5198b2a9f11d13d464e274774d0a.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_3/media/2017-10-09-061246/xsmall_50cc5198b2a9f11d13d464e274774d0a.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_3/media/2017-10-09-061246/thumb_50cc5198b2a9f11d13d464e274774d0a.jpg",
+      "git_file_name": "_assets/image_data/site-assets_2_1_3_media_2017-10-09-061246_50cc5198b2a9f11d13d464e274774d0a.jpg.json",
+      "path": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_3/media/2017-10-09-061246/50cc5198b2a9f11d13d464e274774d0a.jpg"
     }
   ],
   "description": ""
