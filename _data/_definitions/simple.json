@@ -8,7 +8,8 @@
   
   "Color": {
     "type": "color",
-    "required": true
+    "required": true,
+    "multiple": true
 },
   
   "Location": {
