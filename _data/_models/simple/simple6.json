@@ -1,0 +1,155 @@
+{
+  "Location": [
+    {
+      "name": "Boston",
+      "address": "Boston, MA, USA",
+      "place_id": "ChIJGzE9DS1l44kRoOhiASS_fHg",
+      "reference": "CmRbAAAAza5-9HxbmNpTM9vhc4l-2G7Ia4qNAfoKaKjLSkxEjRNwyiIIpXQu7FuM11VoQr31bYE3d_Lm2HY0oePQMYX9NmYl-wRKpkhThXjEem09fJXW7yHEZdUcbpiGHiiLudRyEhCIQZb_vZmtGpbQqL4TbvxVGhQZd9UMOyvBwvuSlDIGGPbhZufHYg",
+      "latitude": 42.3600825,
+      "longitude": -71.05888010000001,
+      "google_place": {
+        "address_components": [
+          {
+            "long_name": "Boston",
+            "short_name": "Boston",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Suffolk County",
+            "short_name": "Suffolk County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Massachusetts",
+            "short_name": "MA",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "adr_address": "<span class=\"locality\">Boston</span>, <span class=\"region\">MA</span>, <span class=\"country-name\">USA</span>",
+        "formatted_address": "Boston, MA, USA",
+        "geometry": {
+          "location": {
+          },
+          "viewport": {
+            "f": {
+              "b": 42.22788,
+              "f": 42.40081989999999
+            },
+            "b": {
+              "b": -71.19111299999997,
+              "f": -70.74945500000001
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+        "id": "06755c25d2b34d13942a4713971756a55b870ced",
+        "name": "Boston",
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106865232575699241722/photos\">Andre Christoph</a>"
+            ],
+            "width": 5312
+          },
+          {
+            "height": 480,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103178705844702591235/photos\">Aman Godara</a>"
+            ],
+            "width": 640
+          },
+          {
+            "height": 480,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103178705844702591235/photos\">Aman Godara</a>"
+            ],
+            "width": 640
+          },
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108241733471408918353/photos\">Mike Schmidt</a>"
+            ],
+            "width": 5312
+          },
+          {
+            "height": 480,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103178705844702591235/photos\">Aman Godara</a>"
+            ],
+            "width": 640
+          },
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103178705844702591235/photos\">Aman Godara</a>"
+            ],
+            "width": 1280
+          },
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103178705844702591235/photos\">Aman Godara</a>"
+            ],
+            "width": 1280
+          },
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103178705844702591235/photos\">Aman Godara</a>"
+            ],
+            "width": 1920
+          },
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103178705844702591235/photos\">Aman Godara</a>"
+            ],
+            "width": 1920
+          },
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103178705844702591235/photos\">Aman Godara</a>"
+            ],
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJGzE9DS1l44kRoOhiASS_fHg",
+        "reference": "CmRbAAAAza5-9HxbmNpTM9vhc4l-2G7Ia4qNAfoKaKjLSkxEjRNwyiIIpXQu7FuM11VoQr31bYE3d_Lm2HY0oePQMYX9NmYl-wRKpkhThXjEem09fJXW7yHEZdUcbpiGHiiLudRyEhCIQZb_vZmtGpbQqL4TbvxVGhQZd9UMOyvBwvuSlDIGGPbhZufHYg",
+        "scope": "GOOGLE",
+        "types": [
+          "locality",
+          "political"
+        ],
+        "url": "https://maps.google.com/?q=Boston,+MA,+USA&ftid=0x89e3652d0d3d311b:0x787cbf240162e8a0",
+        "utc_offset": -240,
+        "vicinity": "Boston",
+        "html_attributions": null
+      }
+    }
+  ],
+  "name": "Nagesh2",
+  "Color": [
+    "#5edee3"
+  ],
+  "desc": "<p>testing2</p>"
+}
