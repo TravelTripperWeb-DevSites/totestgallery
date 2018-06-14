@@ -1,0 +1,150 @@
+{
+  "Location": [
+    {
+      "name": "New York",
+      "address": "New York, NY, USA",
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "CmRbAAAA2Cc-oHBcGX88fdQ8h3Ko_6w_km0_CrY__MJLZTWHvb9arhwnP1Tvkc4ICjH58bJGGznNqi_tQPR1rAJzKFUbp8rilr3SZmMlhhLGJHqGrpYj82AqZ-GzPzwFhQcckEvYEhDlYN-b6e5vgSCqveKC5c-WGhRNq5gI0zALuYLO1t3UZFZtuLRXHQ",
+      "latitude": 40.7127753,
+      "longitude": -74.0059728,
+      "google_place": {
+        "address_components": [
+          {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span>, <span class=\"country-name\">USA</span>",
+        "formatted_address": "New York, NY, USA",
+        "geometry": {
+          "location": {
+          },
+          "viewport": {
+            "f": {
+              "b": 40.4773991,
+              "f": 40.9175771
+            },
+            "b": {
+              "b": -74.25908989999999,
+              "f": -73.7002721
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+        "id": "7eae6a016a9c6f58e2044573fb8f14227b6e1f96",
+        "name": "New York",
+        "photos": [
+          {
+            "height": 401,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109211857686808261282/photos\">Вячеслав Сысоев</a>"
+            ],
+            "width": 604
+          },
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112714959103005771392/photos\">jr rodriguez moreno</a>"
+            ],
+            "width": 2048
+          },
+          {
+            "height": 2825,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105473471027855654879/photos\">Dobre TV</a>"
+            ],
+            "width": 4758
+          },
+          {
+            "height": 2864,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116522566196014882453/photos\">Rade Spasovski</a>"
+            ],
+            "width": 4096
+          },
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115306491091237167643/photos\">Sethunath V</a>"
+            ],
+            "width": 960
+          },
+          {
+            "height": 2592,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102324209078952545904/photos\">Richard Schneider</a>"
+            ],
+            "width": 3888
+          },
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112013027724003686126/photos\">Tzachi Cohen</a>"
+            ],
+            "width": 1084
+          },
+          {
+            "height": 640,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104848646960119330191/photos\">Fenix</a>"
+            ],
+            "width": 1137
+          },
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108137452504235376202/photos\">Kusal Epa</a>"
+            ],
+            "width": 3696
+          },
+          {
+            "height": 1152,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112714959103005771392/photos\">jr rodriguez moreno</a>"
+            ],
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+        "reference": "CmRbAAAA2Cc-oHBcGX88fdQ8h3Ko_6w_km0_CrY__MJLZTWHvb9arhwnP1Tvkc4ICjH58bJGGznNqi_tQPR1rAJzKFUbp8rilr3SZmMlhhLGJHqGrpYj82AqZ-GzPzwFhQcckEvYEhDlYN-b6e5vgSCqveKC5c-WGhRNq5gI0zALuYLO1t3UZFZtuLRXHQ",
+        "scope": "GOOGLE",
+        "types": [
+          "locality",
+          "political"
+        ],
+        "url": "https://maps.google.com/?q=New+York,+NY,+USA&ftid=0x89c24fa5d33f083b:0xc80b8f06e177fe62",
+        "utc_offset": -240,
+        "vicinity": "New York",
+        "html_attributions": null
+      }
+    }
+  ],
+  "Color": [
+    "#bd1717",
+    "#c63a3a",
+    "#ce3434",
+    "#b56363"
+  ],
+  "name": "teststs",
+  "desc": "<p>ssadasd</p>"
+}
