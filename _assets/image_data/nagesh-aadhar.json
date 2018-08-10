@@ -3,12 +3,12 @@
   "content_type": "application/pdf",
   "tags": "",
   "description": "",
-  "date_added": "2018-08-10-061309",
-  "width": 595,
-  "height": 842,
-  "format": "pdf",
-  "url": "http://res.cloudinary.com/nageshtest/image/upload/v1533895992/single_page_pdf.pdf",
-  "resource_type": "image",
+  "date_added": "2018-08-10-062104",
+  "width": null,
+  "height": null,
+  "format": null,
+  "url": "http://res.cloudinary.com/nageshtest/raw/upload/v1533896467/sd0bbwvcxdt08lj79bet.pdf",
+  "resource_type": "raw",
   "size": 370033,
-  "secure_url": "https://res.cloudinary.com/nageshtest/image/upload/v1533895992/single_page_pdf.pdf"
+  "secure_url": "https://res.cloudinary.com/nageshtest/raw/upload/v1533896467/sd0bbwvcxdt08lj79bet.pdf"
 }
