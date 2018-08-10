@@ -3,5 +3,12 @@
   "content_type": "application/pdf",
   "tags": "",
   "description": "",
-  "date_added": "2018-08-10-060851"
+  "date_added": "2018-08-10-061309",
+  "width": 595,
+  "height": 842,
+  "format": "pdf",
+  "url": "http://res.cloudinary.com/nageshtest/image/upload/v1533895992/single_page_pdf.pdf",
+  "resource_type": "image",
+  "size": 370033,
+  "secure_url": "https://res.cloudinary.com/nageshtest/image/upload/v1533895992/single_page_pdf.pdf"
 }
