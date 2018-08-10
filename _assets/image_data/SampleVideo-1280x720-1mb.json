@@ -1,0 +1,32 @@
+{
+  "name": "SampleVideo-1280x720-1mb",
+  "content_type": "video/mp4",
+  "tags": "",
+  "description": "",
+  "date_added": "2018-08-10-052350",
+  "audio": {
+    "codec": "aac",
+    "bit_rate": "384828",
+    "frequency": 48000,
+    "channels": 6,
+    "channel_layout": "5.1"
+  },
+  "video": {
+    "pix_format": "yuv420p",
+    "codec": "h264",
+    "level": 31,
+    "profile": "Main",
+    "bit_rate": "1205959",
+    "dar": "16:9"
+  },
+  "bit_rate": 1589963,
+  "frame_rate": 25.0,
+  "duration": 5.28,
+  "width": 1280,
+  "height": 720,
+  "format": "mp4",
+  "url": "http://res.cloudinary.com/nageshtest/video/upload/v1533893301/bguq8qheutsnfmlmabzi.mp4",
+  "resource_type": "video",
+  "size": 1055736,
+  "secure_url": "https://res.cloudinary.com/nageshtest/video/upload/v1533893301/bguq8qheutsnfmlmabzi.mp4"
+}
