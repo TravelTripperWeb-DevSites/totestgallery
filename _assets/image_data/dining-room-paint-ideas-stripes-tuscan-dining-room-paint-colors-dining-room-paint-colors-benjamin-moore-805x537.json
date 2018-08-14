@@ -41,10 +41,10 @@
   "resource_type": "image",
   "size": 78584,
   "secure_url": "https://res.cloudinary.com/nageshtest/image/upload/v1534159285/hsegkgz0slgtuxilybgl.jpg",
-  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_9/media/2018-08-14-035804/a11qyezpi66fl9aojtqc.png",
-  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_9/media/2018-08-14-035804/large_a11qyezpi66fl9aojtqc.png",
-  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_9/media/2018-08-14-035804/medium_a11qyezpi66fl9aojtqc.png",
-  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_9/media/2018-08-14-035804/small_a11qyezpi66fl9aojtqc.png",
-  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_9/media/2018-08-14-035804/xsmall_a11qyezpi66fl9aojtqc.png",
-  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_9/media/2018-08-14-035804/thumb_a11qyezpi66fl9aojtqc.png"
+  "s3_url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_9/media/2018-08-14-042227/hsegkgz0slgtuxilybgl.png",
+  "s3_url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_9/media/2018-08-14-042227/large_hsegkgz0slgtuxilybgl.png",
+  "s3_url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_9/media/2018-08-14-042227/medium_hsegkgz0slgtuxilybgl.png",
+  "s3_url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_9/media/2018-08-14-042227/small_hsegkgz0slgtuxilybgl.png",
+  "s3_url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_9/media/2018-08-14-042227/xsmall_hsegkgz0slgtuxilybgl.png",
+  "s3_url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_9/media/2018-08-14-042227/thumb_hsegkgz0slgtuxilybgl.png"
 }
