@@ -1,0 +1,150 @@
+{
+  "Location": [
+    {
+      "name": "New York",
+      "address": "New York, NY, USA",
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "reference": "CmRbAAAAyCrtv-QgXEZIUY9MeM89VMUVlJsskKlrgzp0WYjsaMcttMJZO0p2WWSNtaNbs470w12Yo_rVqq4iNxWLZLj14_oIyxUFQNS-S2evwUFkUC0V6a2CJpx1R69iqNYYEdz6EhBaU5nWsjAmbygvKPB3qcSuGhQ1e9yHQ3zuZA5C7EPeu_68nEJphQ",
+      "latitude": 40.7127753,
+      "longitude": -74.0059728,
+      "google_place": {
+        "address_components": [
+          {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "adr_address": "<span class=\"locality\">New York</span>, <span class=\"region\">NY</span>, <span class=\"country-name\">USA</span>",
+        "formatted_address": "New York, NY, USA",
+        "geometry": {
+          "location": {
+          },
+          "viewport": {
+            "f": {
+              "b": 40.4773991,
+              "f": 40.9175771
+            },
+            "b": {
+              "b": -74.25908989999999,
+              "f": -73.7002721
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+        "id": "7eae6a016a9c6f58e2044573fb8f14227b6e1f96",
+        "name": "New York",
+        "photos": [
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107134518584108158623/photos\">Serhii Kyslyakov</a>"
+            ],
+            "width": 4608
+          },
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112714959103005771392/photos\">jr rodriguez moreno</a>"
+            ],
+            "width": 2048
+          },
+          {
+            "height": 2825,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105473471027855654879/photos\">Dobre TV</a>"
+            ],
+            "width": 4758
+          },
+          {
+            "height": 2864,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116522566196014882453/photos\">Rade Spasovski</a>"
+            ],
+            "width": 4096
+          },
+          {
+            "height": 2592,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102324209078952545904/photos\">Richard Schneider</a>"
+            ],
+            "width": 3888
+          },
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112013027724003686126/photos\">Tzachi Cohen</a>"
+            ],
+            "width": 1084
+          },
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108065816454749368975/photos\">pk___ top ar</a>"
+            ],
+            "width": 1280
+          },
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108137452504235376202/photos\">Kusal Epa</a>"
+            ],
+            "width": 3696
+          },
+          {
+            "height": 1152,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112714959103005771392/photos\">jr rodriguez moreno</a>"
+            ],
+            "width": 2048
+          },
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104159968482567515737/photos\">Pernilla Helder</a>"
+            ],
+            "width": 5312
+          }
+        ],
+        "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+        "reference": "CmRbAAAAyCrtv-QgXEZIUY9MeM89VMUVlJsskKlrgzp0WYjsaMcttMJZO0p2WWSNtaNbs470w12Yo_rVqq4iNxWLZLj14_oIyxUFQNS-S2evwUFkUC0V6a2CJpx1R69iqNYYEdz6EhBaU5nWsjAmbygvKPB3qcSuGhQ1e9yHQ3zuZA5C7EPeu_68nEJphQ",
+        "scope": "GOOGLE",
+        "types": [
+          "locality",
+          "political"
+        ],
+        "url": "https://maps.google.com/?q=New+York,+NY,+USA&ftid=0x89c24fa5d33f083b:0xc80b8f06e177fe62",
+        "utc_offset": -240,
+        "vicinity": "New York",
+        "html_attributions": null
+      }
+    }
+  ],
+  "name": "Nagesh1",
+  "desc": "<p>testing</p>",
+  "Color": [
+    "#3b2dc3",
+    "#872388",
+    "#946ecd",
+    "#e9f557"
+  ]
+}

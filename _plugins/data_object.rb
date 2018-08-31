@@ -14,14 +14,13 @@ class DataObject
     definition.each do |key, details|
       rd[key] = self.send(key)
     end
-    rd
+    data.merge(rd)
   end
   
 
   def match?(key, values)
     key = key.to_s
     values = values.map(&:to_s)
-
     if definition.has_key?(key) && definition[key].has_key?('type') && definition[key]['type'] == 'model'
       storage.send "find_#{definition[key]['model_name']}_by_#{definition[key]['foreign_key'] || 'id'}", values
     else
@@ -43,9 +42,10 @@ class DataObject
       else
         data[name]
       end
-
-      definition.has_key?(name) && definition[name].has_key?('localizable') && definition[name]['localizable'] ?
-        value[storage.locale] || value[storage.default_locale] : value
+      return value
+      # The current copy of [data] has the appropriate values stored for the current locale already
+      # definition.has_key?(name) && definition[name].has_key?('localizable') && definition[name]['localizable'] ?
+      #  value[storage.locale] || value[storage.default_locale] : value
     end
   end
 
@@ -54,7 +54,11 @@ class DataObject
   end
 
   def to_liquid
-    self
+    self.rich_data
+  end
+  
+  def json
+    self.data.to_json
   end
 
   def [](property)

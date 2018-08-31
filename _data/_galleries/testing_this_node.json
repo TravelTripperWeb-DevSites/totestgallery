@@ -1,0 +1,25 @@
+{
+  "name": "testing this node",
+  "photos": [
+    {
+      "name": "Screen Shot 2018-06-08 at 4.02.48 PM",
+      "file_name": "Screen Shot 2018-06-08 at 4.02.48 PM.png",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_9/media/2018-06-11-061740/Screen_Shot_2018-06-08_at_4.02.48_PM.png",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-06-11-061740",
+      "file_type": "image/png",
+      "width": 2560,
+      "height": 1600,
+      "file_size": 598902,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_9/media/2018-06-11-061740/large_Screen_Shot_2018-06-08_at_4.02.48_PM.png",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_9/media/2018-06-11-061740/medium_Screen_Shot_2018-06-08_at_4.02.48_PM.png",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_9/media/2018-06-11-061740/small_Screen_Shot_2018-06-08_at_4.02.48_PM.png",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_9/media/2018-06-11-061740/xsmall_Screen_Shot_2018-06-08_at_4.02.48_PM.png",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_9/media/2018-06-11-061740/thumb_Screen_Shot_2018-06-08_at_4.02.48_PM.png",
+      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_1_9/media/2018-06-11-061740/Screen_Shot_2018-06-08_at_4.02.48_PM.png",
+      "alt": "nagesh test"
+    }
+  ],
+  "description": ""
+}

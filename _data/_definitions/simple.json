@@ -2,7 +2,18 @@
   "name": {
     "required": true
   },
-  "desc"" {
+  "desc": {
     "type": "richtext"
-}
+},
+  
+  "Color": {
+    "type": "color",
+    "required": true
+  },
+  
+  "Location": {
+    "type": "location",
+    "required": true,
+    "multiple": true
+  }
 }
