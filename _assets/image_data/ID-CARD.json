@@ -1,0 +1,37 @@
+{
+  "name": "ID-CARD",
+  "content_type": "image/jpeg",
+  "tags": "",
+  "description": "",
+  "date_added": "2018-08-31-031727",
+  "url_thumb": {
+    "status": "processing",
+    "batch_id": "c818a01c920143a1910b5fc3502d409a3be1342471ef2a9d00f41361bc8806e0",
+    "url": "http://res.cloudinary.com/nageshtest/image/upload/c_fill,g_faces,h_140,w_140/v1535699850/wifxf8qeggn0xaz4lzxc.jpg",
+    "secure_url": "https://res.cloudinary.com/nageshtest/image/upload/c_fill,g_faces,h_140,w_140/v1535699850/wifxf8qeggn0xaz4lzxc.jpg"
+  },
+  "url_xsmall": {
+    "status": "processing",
+    "batch_id": "c818a01c920143a1910b5fc3502d409a3be1342471ef2a9d00f41361bc8806e0",
+    "url": "http://res.cloudinary.com/nageshtest/image/upload/c_fit,h_300,w_300/v1535699850/wifxf8qeggn0xaz4lzxc.jpg",
+    "secure_url": "https://res.cloudinary.com/nageshtest/image/upload/c_fit,h_300,w_300/v1535699850/wifxf8qeggn0xaz4lzxc.jpg"
+  },
+  "url_small": {
+    "status": "processing",
+    "batch_id": "c818a01c920143a1910b5fc3502d409a3be1342471ef2a9d00f41361bc8806e0",
+    "url": "http://res.cloudinary.com/nageshtest/image/upload/c_fit,h_768,w_768/v1535699850/wifxf8qeggn0xaz4lzxc.jpg",
+    "secure_url": "https://res.cloudinary.com/nageshtest/image/upload/c_fit,h_768,w_768/v1535699850/wifxf8qeggn0xaz4lzxc.jpg"
+  },
+  "url_medium": {
+    "status": "processing",
+    "batch_id": "c818a01c920143a1910b5fc3502d409a3be1342471ef2a9d00f41361bc8806e0",
+    "url": "http://res.cloudinary.com/nageshtest/image/upload/c_fit,h_992,w_992/v1535699850/wifxf8qeggn0xaz4lzxc.jpg",
+    "secure_url": "https://res.cloudinary.com/nageshtest/image/upload/c_fit,h_992,w_992/v1535699850/wifxf8qeggn0xaz4lzxc.jpg"
+  },
+  "url_large": {
+    "status": "processing",
+    "batch_id": "c818a01c920143a1910b5fc3502d409a3be1342471ef2a9d00f41361bc8806e0",
+    "url": "http://res.cloudinary.com/nageshtest/image/upload/c_fit,h_1200,w_1200/v1535699850/wifxf8qeggn0xaz4lzxc.jpg",
+    "secure_url": "https://res.cloudinary.com/nageshtest/image/upload/c_fit,h_1200,w_1200/v1535699850/wifxf8qeggn0xaz4lzxc.jpg"
+  }
+}
